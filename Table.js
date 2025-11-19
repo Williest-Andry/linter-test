@@ -18,3 +18,6 @@ class Table{
         return this.longueur * this.largeur;
     }
 }
+
+const tableTest = new Table();
+console.log(tableTest);
