@@ -19,5 +19,4 @@ class Table{
     }
 }
 
-const tableTest = new Table();
-console.log(tableTest);
+
